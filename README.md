@@ -1,3 +1,3 @@
 REAL ESTATE:
 
-APP URL:
+APP URL:https://realestatehouseprice-ganapathy.streamlit.app/

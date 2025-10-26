@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import pickle
 from datetime import date
-from sklearn.preprocessing import StandardScaler
 
 # -----------------------------
 # Load model and scaler

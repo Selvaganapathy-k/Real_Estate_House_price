@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/c32305c890df4c0ea2d753ee2afcdf44/artifacts
+end_time: 1761497186509
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: c32305c890df4c0ea2d753ee2afcdf44
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761497175398
+status: 3
+tags: []
+user_id: KISHOR SELVA

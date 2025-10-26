@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/8ec5c1bd3fb14a178073bad912d3631e/artifacts
+end_time: 1761497265136
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: 8ec5c1bd3fb14a178073bad912d3631e
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761497260096
+status: 3
+tags: []
+user_id: KISHOR SELVA

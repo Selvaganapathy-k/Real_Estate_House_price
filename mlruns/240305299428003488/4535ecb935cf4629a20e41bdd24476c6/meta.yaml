@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/4535ecb935cf4629a20e41bdd24476c6/artifacts
+end_time: 1761625392770
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: 4535ecb935cf4629a20e41bdd24476c6
+run_name: LassoCV
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625384154
+status: 3
+tags: []
+user_id: KISHOR SELVA

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/a7361bdf4d184458b94b37ee959ea37e/artifacts
+end_time: 1761625519528
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: a7361bdf4d184458b94b37ee959ea37e
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625509724
+status: 3
+tags: []
+user_id: KISHOR SELVA

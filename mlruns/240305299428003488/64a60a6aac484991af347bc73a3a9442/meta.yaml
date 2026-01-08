@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/64a60a6aac484991af347bc73a3a9442/artifacts
+end_time: 1761625384146
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: 64a60a6aac484991af347bc73a3a9442
+run_name: ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625376209
+status: 3
+tags: []
+user_id: KISHOR SELVA

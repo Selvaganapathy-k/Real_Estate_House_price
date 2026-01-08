@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/8c1173e4e5ad45ba93cc16bd4a5b1b9b/artifacts
+end_time: 1761625496529
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: 8c1173e4e5ad45ba93cc16bd4a5b1b9b
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625486571
+status: 3
+tags: []
+user_id: KISHOR SELVA

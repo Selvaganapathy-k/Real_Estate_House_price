@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/models/m-6f9eb0ffc68f4bbfb5b21f7543a14008/artifacts
+creation_timestamp: 1761625376460
+experiment_id: '240305299428003488'
+last_updated_timestamp: 1761625384110
+model_id: m-6f9eb0ffc68f4bbfb5b21f7543a14008
+model_type: null
+name: model
+source_run_id: 64a60a6aac484991af347bc73a3a9442
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/KISHOR%20SELVA/Desktop/Project/Prediction/Real%20estate/mlruns/240305299428003488/60844b59fce1443594d6cc7869773524/artifacts
+end_time: 1761625530241
+entry_point_name: ''
+experiment_id: '240305299428003488'
+lifecycle_stage: active
+run_id: 60844b59fce1443594d6cc7869773524
+run_name: RandomForest_RealEstate
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625529922
+status: 4
+tags: []
+user_id: KISHOR SELVA
